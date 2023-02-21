@@ -5,6 +5,6 @@ numpy~=1.24.1
 mysql-connector-python~=8.0.32
 python-dotenv~=0.21.1
 python-dotenv
-
+python-debian          0.1.36ubuntu1
 setuptools~=67.2.0
 DateTime~=5.0
